@@ -3,7 +3,7 @@ import requests
 
 city_name = input("Enter a city name: ")
 
-api_key = "907a7838458f0525646035b0accf428f"
+api_key = ""
 
 # API for weather
 
